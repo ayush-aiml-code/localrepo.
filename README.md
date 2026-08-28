@@ -1,2 +1,1 @@
-# This My Local Repo.
-# Name Ayushe
+# This My Local Repository
